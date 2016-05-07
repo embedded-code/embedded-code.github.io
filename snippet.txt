@@ -1,0 +1,30 @@
+<div class="grid-main">
+	<div class="container">
+			<div class="process">
+				<h3>Trainings Offered</h3>
+				<p>We offer are variety of training programmes based on various industrial requirements. From complete IT solution deployment based on .NET and Java to other server side technologies such as NodeJS and EJB, we do it all. We have special training courses for Embedded Systems and Product Design with Hardare, Software and CAD/CAM</p>
+			    <div class="process-bottom">
+			    	<div class="col-md-4 process-grid">
+			    		<span class="glyphicon glyphicon-education" aria-hidden="true"> </span>
+			    		<h4>1.Collect Ideas</h4>
+			    		<p>Engineering</p>
+			    	</div>
+			    	<div class="col-md-4 process-grid">
+			    		<span class="glyphicon glyphicon-lamp" aria-hidden="true"> </span>
+			    		<h4>2.Preparing</h4>
+			    		<p>At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+			    	</div>
+			    	<div class="col-md-4 process-grid">
+			    		<span class="glyphicon glyphicon-hourglass" aria-hidden="true"> </span>
+			    		<h4>3.Finalizing</h4>
+			    		<p>At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+			    	</div>
+			      <div class="clearfix"> </div>
+			   </div>
+	     </div>	
+      </div>
+   </div>
+
+
+   <li><a href="#" class="gmail"> </a></li>
+						<li><a href="#" class="print"> </a></li>
