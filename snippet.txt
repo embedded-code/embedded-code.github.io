@@ -28,3 +28,12 @@
 
    <li><a href="#" class="gmail"> </a></li>
 						<li><a href="#" class="print"> </a></li>
+
+
+	<div class="col-md-3 footer-news">
+			<h5>Newsletter</h5>
+			</div>
+			<div class="col-md-9 ftr-email">
+				<input type="text" value="ENTER EMAIL" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='ENTER EMAIL';}">
+				<input type="submit" value="SUBSCRIBE" >
+			</div>
